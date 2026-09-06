@@ -12,3 +12,10 @@ pydantic
 requests
 
 pinecone
+
+langchain-openai
+langchain-core
+langchain-community
+
+
+
